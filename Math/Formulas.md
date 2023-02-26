@@ -41,7 +41,7 @@
 | :-----------------------: | :-------------------------------------------------------------------------: |
 |   Directly Proportional   |  $$y=kx,\space{k=\frac{y}{x}}\text{ ($k$ : constant of proportionality)}$$  |
 |  Inversely Proportional   | $$y=\frac{k}{x},\space{k = yx}\text{ ($k$ : constant of proportionality)}$$ |
-|     Quadratic Formula     |     $$0=ax^{2}+bx+c,\space{x={\frac{-b\plusmn\sqrt{{b^2}-4ac}}{2a}}}$$      |
+|     Quadratic Formula     |     $$0=ax^{2}+bx+c,\space{x={\frac{-b\pm\sqrt{{b^2}-4ac}}{2a}}}$$      |
 |        Concave Up         |                          $$0={ax^2}+bx+c,(a > 0)$$                          |
 |       Concave Down        |                          $$0={ax^2}+bx+c,(a < 0)$$                          |
 |       Discriminant        |                 $$0={ax^2}+bx+c,\space{\Delta={b^2}-4ac}$$                  |
@@ -73,7 +73,7 @@
 | :------------------: | :------------------------------------------------------------: |
 |    Multiplication    |     $$\sqrt[n]{x}\times\sqrt[n]{y}=\sqrt[n]{x\times{y}}$$      |
 |       Division       |      $$\sqrt[n]{x}\div\sqrt[n]{y}=\sqrt[n]{\frac{x}{y}}$$      |
-|       Addition       | $$a\sqrt[n]{x}\plusmn{b}\sqrt[n]{x}=(a\plusmn{b})\sqrt[n]{x}$$ |
+|       Addition       | $$a\sqrt[n]{x}\pm{b}\sqrt[n]{x}=(a\pm{b})\sqrt[n]{x}$$ |
 |      Exponents       |          $$\left(\sqrt[n]{x}\right)^p=\sqrt[n]{x^p}$$          |
 |       Radicals       |            $$\sqrt[n]{\sqrt[p]{x}}=\sqrt[n-p]{x}$$             |
 |    Exponentiation    |               $$\sqrt[n]{a^m}=a^{\frac{m}{n}}$$                |
