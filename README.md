@@ -1,1 +1,1 @@
-# Practicing-Markdown-and-LaTeX
+# Practicing Markdown and Latex
